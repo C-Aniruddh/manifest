@@ -10,7 +10,7 @@
   <remote name="github"
           fetch="git://github.com" />
   <remote name="pixel"
-          fetch="git://github.com/PixelROM" />
+          fetch="git://github.com/romback" />
   <remote name="linaro"
           fetch="http://android.git.linaro.org/git-ro/" />
   <remote  name="private"
