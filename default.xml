@@ -505,4 +505,14 @@
   <!-- External Packages -->
   <project path="external/stlport" name="android_external_stlport" groups="pdk" />
   
+  <!--Nicki-->
+  <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-11.0" />
+  <project path="device/sony/common" name="PixelROM/device_sony_common" remote="github" revision="kk" />
+  <project path="device/sony/nicki" name="PixelROM/device_sony_nicki" remote="github" revision="kk" />
+  <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-11.0" />
+  <project path="kernel/sony/8x27" name="C-Aniruddh/android_Kernel_sony_msm8x27" remote="github" revision="cm-11.0" />
+  <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-11.0" />
+  <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-11.0" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-11.0" />
 </manifest>
+
